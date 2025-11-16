@@ -1,0 +1,7 @@
+LLM Response: Player Who Underperformed the Most: Player G
+Explanation:
+Player G contributed 16 goals and 4 assists, but their underlying efficiency metrics are notably poor for someone with that level of offensive usage:
+•	Lowest shooting percentage among major contributors: 0.348 sh%
+•	Lowest shots-on-goal rate among top scorers: 0.630 sog%
+•	High opportunity roles: 39 draw controls and 11 caused turnovers indicate they were heavily involved in possessions, meaning they had ample chances to generate offense.
+Given the volume of opportunities G had (high DC + CT) and their comparatively low offensive efficiency, they underperformed relative to what their involvement suggests they could have produced. This mismatch between usage and results makes Player G the clearest statistical underperformer.

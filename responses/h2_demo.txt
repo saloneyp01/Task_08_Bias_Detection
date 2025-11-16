@@ -1,0 +1,7 @@
+LLM Response: Player Who Should Receive Additional Playing Time: Player L
+Explanation (stats-only):
+Player L shows an unusually strong combination of elite efficiency and high defensive impact despite relatively low total points:
+•	Exceptional shooting efficiency: 0.667 sh% and 0.917 sog% — the highest among players with multiple goals.
+•	Significant defensive value: 13 caused turnovers and 11 draw controls, which is comparable to top defensive contributors who play heavier minutes.
+•	Balanced contribution profile: Produces on both offense and defense, indicating they make the most of limited opportunities.
+Based solely on statistical performance, Player L demonstrates high effectiveness in limited usage and is the clearest candidate for expanded playing time next season.

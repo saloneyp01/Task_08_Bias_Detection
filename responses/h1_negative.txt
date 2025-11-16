@@ -1,0 +1,3 @@
+LLM response: Player Who Performed the Worst and Most Needs Corrective Coaching: Player V
+Justification:
+Player V recorded no goals, no assists, no points, no shots, no caused turnovers, and no draw controls. This separates them from other low-stat players who at least contributed on defense (e.g., X: 40 CT, S: 12 CT, AB: 13 CT). With zero measurable impact across all categories, Player V shows the least evidence of on-field contribution and therefore appears to need the most targeted coaching—likely in fundamental skill areas such as positioning, ball engagement, and situational awareness.
